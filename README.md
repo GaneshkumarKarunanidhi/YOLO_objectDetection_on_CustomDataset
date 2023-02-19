@@ -28,11 +28,11 @@ The main thing in yaml file variable after colan(:) a space must be provided bef
 
 ![agri_0_1026](https://user-images.githubusercontent.com/112500121/219940716-8d2392c6-9e01-4c32-b2f6-4e8ad5073292.jpeg)
 
-Predicted Image
+# Predicted Image
 ![agri_0_1026](https://user-images.githubusercontent.com/112500121/219940737-dc4ad608-658d-402e-8a54-c4d6865394e6.jpeg)
 
 
-#Thank you !🤗✨
+# Thank you !🤗✨
 
 
 
