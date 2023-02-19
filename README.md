@@ -2,7 +2,7 @@
 Weeds to increase crop yields Weeds are an unwanted intruder in the agricultural business. We have to detect the Crop and weeds using YOLOV8 Model.
 
 # Dataset Folder 
-I add the image for dataset folder must be have.Inside the train folder we have a images and labels folder for same for the Test and Val folder have a images and labels folder.
+I include the image that the dataset folder must have. The Test and Val folders also contain an images and labels folder inside of them, as does the train folder.
 
 <img width="217" alt="Screenshot_20230219_023401" src="https://user-images.githubusercontent.com/112500121/219939652-7c3d3d15-cdfa-4326-87be-0cd1ccfbc24a.png">
 
